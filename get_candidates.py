@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import random
 
-
+# test comment
 df = pd.read_csv("Trifonov bank.csv")
 
 df_Gstars = pd.DataFrame()
