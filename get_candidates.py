@@ -21,6 +21,6 @@ df_sample = pd.concat([pd.DataFrame([df_Gstars.iloc[i]]) for i in sample_list],
 
 print(df_sample)
 
-df_sample.to_csv("Sample set from Trifonov Bank.csv")
+df_sample.to_csv("Sample set from Trifonov Bank UPDATED.csv")
 
 
