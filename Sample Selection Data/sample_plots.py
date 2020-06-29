@@ -41,7 +41,7 @@ ax.set_title(r'Metallicity Distribution of Sample Set')
 
 fig.tight_layout()
 plt.show()
-plt.savefig("fe_h sample set.png")
+fig.savefig("fe_h sample set.png")
 plt.close()
 
 
@@ -63,7 +63,7 @@ ax.set_title(r'logg Distribution of Sample Set')
 
 fig.tight_layout()
 plt.show()
-plt.savefig("logg sample set.png")
+fig.savefig("logg sample set.png")
 plt.close()
 
 
@@ -84,7 +84,7 @@ ax.set_title(r'Effective Temperature Distribution of Sample Set')
 
 fig.tight_layout()
 plt.show()
-plt.savefig("t_eff sample set.png")
+fig.savefig("t_eff sample set.png")
 plt.close()
 
 
